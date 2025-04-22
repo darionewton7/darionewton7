@@ -19,6 +19,7 @@ Aqui compartilho projetos, ideias e experimentos que refletem essa jornada.
 <br/>
 
 
+
 ---
 ## 📊 Estatísticas
 | ![Dário GitHub Stats](https://github-readme-stats.vercel.app/api?username=darionewton7&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=darionewton7&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9) |
