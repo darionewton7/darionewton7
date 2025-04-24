@@ -2,7 +2,7 @@
 **Seja bem-vindo ao meu perfil!**
 > "Tecnologia é qualquer coisa que não estava por aí quando você nasceu." – Arthur C. Clarke 🎩🪄
 
-Oi, eu sou o Dário, um estudante apaixonado por **tecnologia, neurociência e café**. Acredito que, ao combinar esses conhecimentos, é possível construir um mundo mais mágico, encantador e humano, onde a inovação vai além da lógica — tocando também a mente e o coração das pessoas.
+Oi, eu sou o Dário, um arquiteto de soluções apaixonado por **tecnologia, neurociência e café**. Acredito que, ao combinar esses conhecimentos, é possível construir um mundo mais mágico, encantador e humano, onde a inovação vai além da lógica — tocando também a mente e o coração das pessoas.
 Aqui compartilho projetos, ideias e experimentos que refletem essa jornada.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dariodevops/)
