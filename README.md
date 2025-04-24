@@ -5,6 +5,10 @@
 Oi, eu sou o Dário, um arquiteto de soluções apaixonado por **tecnologia, neurociência e café**. Acredito que, ao combinar esses conhecimentos, é possível construir um mundo mais mágico, encantador e humano, onde a inovação vai além da lógica — tocando também a mente e o coração das pessoas.
 Aqui compartilho projetos, ideias e experimentos que refletem essa jornada.
 
+- Bacharel em Ciências da Computação **UNB Universidade de Brasilia** - Conclusão 2020
+- MBA em Arquitetura de Software **Fullcycle** - Conclusão 2022
+- Mestrado Inteligência Artificial **MBA USP/Esalq** - Cursando...
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dariodevops/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darionewton7@gmail.com)
 ---
